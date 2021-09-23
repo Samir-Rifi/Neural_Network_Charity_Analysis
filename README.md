@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 # Overview
-With the knowledge of machine learning and neural networks, this project use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
+This project use the features in the provided dataset to help Beks create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. 
 The purpose of doing this anaylsis is to use deep-learning neural networks with the TensorFlow platform in Python, to analyze and classify the success of charitable donations.
 # Results
 ### Data Preprocessing
